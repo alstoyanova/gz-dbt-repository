@@ -1,8 +1,8 @@
 version: 2
 
-sources:
+sources: 
   - name: gz_raw_data
-  - identifier: raw
+  - schema: raw
     tables:
       - name: raw_gz_sales 
       - identifier: sales
