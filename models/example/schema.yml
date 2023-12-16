@@ -2,6 +2,7 @@ version: 2
 
 sources:
   - name: gz_raw_data
+  - identifier: raw
     tables:
       - name: raw_gz_sales 
       - identifier: sales
